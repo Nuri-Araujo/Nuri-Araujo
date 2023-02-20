@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Olá+meus+lindos+e+lindas;Eu+sou+o+Nuri+Araújo;Tenho+16+anos+e+sou+de+Brasília-DF;Atualmente+estudo+com+cursos+online;Não+obstante,+farei+faculdade+na+área;Desde+já+obrigado,+e+boa+apreciação!+:%29)](https://git.io/typing-svg)
 
+<h2> E vamos falar de números </h2><br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuri-Araujo&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri-Araujo&theme=dracula)
  
