@@ -5,7 +5,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nuri-Araujo&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=48D1CC&text_color=c9d1d9&bg_color=0d1117" alt="Nuri Araújo GitHub status" /> 
  </div>
-## Formas de contato
+ 
+<h2>Formas de contato</h2>
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuri.araujo/)
 [![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991532049)
@@ -13,7 +14,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nuri-Araujo&bg_color=b2d5e1&color=175054&line=2c8c8a&point=242424&area=true&hide_border=true)]()
 
-## Tecnologias que uso corriqueiramente
+<h2> Tecnologias que uso corriqueiramente </h2>
 
 <div syle="display: inline_block">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
