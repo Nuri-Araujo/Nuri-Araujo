@@ -9,7 +9,6 @@
 
 ## Formas de contato
 
-[![site](https://img.shields.io/website?label=NuriAraujo.webnode&style=for-the-badge&url=https://nuriaraujo.webnode.page/)](https://nuriaraujo.webnode.page/)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuri.araujo/)
 [![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991532049)
 [![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuri-ara%C3%BAjo-0a7323267/)
