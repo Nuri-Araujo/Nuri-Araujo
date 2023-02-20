@@ -4,9 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nuri-Araujo&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=48D1CC&text_color=c9d1d9&bg_color=0d1117" alt="Nuri Araújo GitHub status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri-Araujo&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=0d1117" />
-</div>
-
+ </div>
 ## Formas de contato
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuri.araujo/)
