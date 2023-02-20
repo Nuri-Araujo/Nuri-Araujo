@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Olá+meus+lindos+e+lindas;Eu+sou+o+Nuri+Araújo;Tenho+16+anos+e+sou+de+Brasília-DF;Atualmente+estudo+com+cursos+online;Não+obstante,+farei+faculdade+na+área;Desde+já+obrigado,+e+boa+apreciação!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nuri-Araujo&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=48D1CC&text_color=c9d1d9&bg_color=0d1117" alt="Nuri Araújo GitHub status" /> 
- </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuri-Araujo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri-Araujo&theme=dracula)
  
 <h2>Formas de contato</h2>
 
