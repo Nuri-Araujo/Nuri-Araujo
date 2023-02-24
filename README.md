@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Olá+meus+lindos+e+lindas;Eu+sou+o+Nuri+Araújo;Tenho+16+anos+e+sou+de+Brasília-DF;Atualmente+estudo+com+cursos+online;Não+obstante,+farei+faculdade+na+área;Desde+já+obrigado,+e+boa+apreciação!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World;Seja+bem+vindo(a);agora+a+brincadeira+começa!+:%29)](https://git.io/typing-svg)
 
 <h2> E vamos falar de números </h2><br/>
 
