@@ -12,7 +12,6 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuri.araujo/)
 [![whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561991532049)
 [![link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuri-ara%C3%BAjo-0a7323267/)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nuri-Araujo&bg_color=b2d5e1&color=175054&line=2c8c8a&point=242424&area=true&hide_border=true)]()
 
 <h2> Tecnologias que uso corriqueiramente </h2>
