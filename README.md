@@ -26,3 +26,5 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=120&section=footer"/>
+
+![snake gif](https://github.com/Nuri-Araujo/Nuri-Araujo/blob/output/github-contribution-grid-snake.svg)
